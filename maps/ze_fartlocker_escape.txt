@@ -1,0 +1,75 @@
+"Console_T"
+{
+	"***DOOR OPENS IN 40s***"
+	{
+		"chi"		"** **"
+	}
+	"***VENT IS NOW ACCESSIBLE***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR IS OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 20s***"
+	{
+		"chi"		"** **"
+	}
+	"***TRAM LEAVES IN 3s***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 40s***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TELEPORT IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR OPENS IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***GET IN THE ELEVATOR***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPEN IN 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***SIDE GATES CLOSE IN 5s***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL GATE CLOSES IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS ARE OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***FINAL DOOR OPENS IN 50s***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TELEPORT IN 10s"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 10s***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK!!! FINAL DOOR CLOSES IN 10s***"
+	{
+		"chi"		"** **"
+	}
+}

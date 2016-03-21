@@ -1,0 +1,111 @@
+"Console_T"
+{
+	"***Dificulty I***"
+	{
+		"chi"		"** **"
+	}
+	"* * Break the iron planks to enter the doors! * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Shield Activated in 20 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"* * * The Gate Door Will Open in 5 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * Zombie Shield Activated! * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Shield Disable in 20 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Shield Disabled! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * The Water is Electric so dont swim! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Get on the Train! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Train is leaving in 10 seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * The Electric Water will be disabled in 30 seconds! * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Get up on the rescue spot! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * Press the Button to charge the Teleport! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Electric Water is Disabled * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport is Charged in 20 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Break the DOOR to Enter! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Run to the Safe Room! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * LAST DOOR CLOSING IN 20 SECONDS! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Nervegas Activated in 10 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"chi"		"** **"
+	}
+	"***Next difficulty II***"
+	{
+		"chi"		"** **"
+	}
+	"* * * LAST DOOR CLOSING IN 30 SECONDS! * * *"
+	{
+		"chi"		"** **"
+	}
+	"***Dificulty II***"
+	{
+		"chi"		"** **"
+	}
+	"* * * The Gate Door Will Open in 10 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Zombie Shield Disable in 10 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Train is leaving in 15 seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Teleport is Charged in 30 Seconds! * * *"
+	{
+		"chi"		"** **"
+	}
+}

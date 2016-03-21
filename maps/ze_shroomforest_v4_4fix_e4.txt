@@ -1,0 +1,531 @@
+"Console_T"
+{
+	">> Map by TaskuVaras <<"
+	{
+		"chi"		"** **"
+	}
+	">> Fixed by Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"[Special Thanks to: Muro#[A] FT]"
+	{
+		"chi"		"** **"
+	}
+	">>Map ported by www.dashijie.es"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"** **"
+	}
+	">> 40 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 30 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 20 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> 10 SECONDS LEFT <<"
+	{
+		"chi"		"** **"
+	}
+	">> WARMUP ROUND END <<"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest Config]"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: FLAT GRASS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL THAT WALL BREAKS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WALL IS BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ICE <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP FIRE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** WAIT TILL BOMB BREAKS THOSE BOARDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BOARDS ARE BROKEN RUUUUUUN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 1 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Leaf 2 leaving in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> HOLD FOR 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> 5 more seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> GO! GO! GO! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO Its an EVIL BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BUTTERFLY IS DEAD RESCUE IS COMING ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 10 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: BIG TREE <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 40 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO GO!!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ELEVATOR LEAVING IN 5 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	">> ITS ANGRY PIKACHU SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
+	{
+		"chi"		"** **"
+	}
+	">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PIKACHU IS DEAD!! RUN TO RESCUE BUTTERFLY ***"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 15 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES ABOARD!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP HEAL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP 6 MINES <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP EARTH <<"
+	{
+		"chi"		"** **"
+	}
+	">> ALL 6 MINES USED <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: HELL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP UNLIMITED AMMO <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DOOR IS OPEN! RUUUN! ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP GRAVITY <<"
+	{
+		"chi"		"** **"
+	}
+	">> SECRET IS NOW OPEN <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP ULTIMATE WEAPON <<"
+	{
+		"chi"		"** **"
+	}
+	">> YOU NEED TO FIND A KEY TO OPEN THAT LOCK <<"
+	{
+		"chi"		"** **"
+	}
+	">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PLAYER FOUND A KEY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO!! ITS SATAN!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT OR YOU WILL BE HIS SLAVES FOREVER!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THROW GRENADES TO KILL IT EASIER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"chi"		"** **"
+	}
+	">> WAIT FOR 10 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL COMPLETED <<"
+	{
+		"chi"		"** **"
+	}
+	">> EXTREME MODE ADDED <<"
+	{
+		"chi"		"** **"
+	}
+	">> BOSSES ON LEVEL II <<"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD FOR ABOUT 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO TO PRESS 2 BUTTONS AT THE SAME TIME TO CONTINUE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GREAT DEFEND FOR 10 MORE SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	">> AN ANGRY PIKACHU IS BLOCKING THE WAY !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO APPEARS SHOOT IT!!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO IS USING TRANSFORM!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> BUTTERFLY LEAVING IN 30 seconds <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING SEED ATTACK <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING FLAMETHROWER <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP WIND <<"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO!! ITS DRAGON!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT IT BEFORE ITS TOO LATE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DRAGON IS HURT YOU ARE FREE TO LEAVE HELL ***"
+	{
+		"chi"		"** **"
+	}
+	">> DEFEND YOUR VILLAGE FOR 30 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> You have succesfully saved Shroomforest <<"
+	{
+		"chi"		"** **"
+	}
+	">> NEW LEVEL UNLOCKED IN ADMIN ROOM <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: CHOOSING LEVEL <<"
+	{
+		"chi"		"** **"
+	}
+	"*** RACE TO REACH THE TELEPORTER TO ADMIN ROOM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU CAN CHOOSE LEVEL AND MODE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: HELL EXTREME <<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
+	{
+		"chi"		"** **"
+	}
+	">> NUKE INCOMING IN 5 SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">> LEVEL: A NEW BEGINNING <<"
+	{
+		"chi"		"** **"
+	}
+	"*** THE ELEVATOR WILL FALL DOWN !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO INSIDE OR YOU WILL BE TRAPPED UP HERE !! ***"
+	{
+		"chi"		"** **"
+	}
+	">> IT LOOK LIKE A NEW PLACE ... <<"
+	{
+		"chi"		"** **"
+	}
+	">> A WILD PIKACHU IS WAITING FOR US !! <<"
+	{
+		"chi"		"** **"
+	}
+	">> CT GET OUT THE ELEVATOR AND FIGHT !! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** PIKACHU WILL FALL DOWN. GO AWAY FROM HIM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS PLACE WILL BE OUR NEW VILLAGE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DONT LET ANY ZOMBIE ENTER !! ***"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS PICKED UP A GEAR MECANISM <<"
+	{
+		"chi"		"** **"
+	}
+	">> GOOD JOB <<"
+	{
+		"chi"		"** **"
+	}
+	">> THE GRID SHOULD START TO CLOSE <<"
+	{
+		"chi"		"** **"
+	}
+	">> You have succefully saved our new village <<"
+	{
+		"chi"		"** **"
+	}
+	"[Load Shroom End Config]"
+	{
+		"chi"		"** **"
+	}
+	">> Congratulation ! <<"
+	{
+		"chi"		"** **"
+	}
+	">> You beat the map ! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Play ShroomForest2 to continue the adventure <<"
+	{
+		"chi"		"** **"
+	}
+	">> Feel free to visit the spawn <<"
+	{
+		"chi"		"** **"
+	}
+	">> Quick ZM Mod <<"
+	{
+		"chi"		"** **"
+	}
+	">> Zombies will spawn soon <<"
+	{
+		"chi"		"** **"
+	}
+	">> Survive 1 minute <<"
+	{
+		"chi"		"** **"
+	}
+	">> If you change level via admin room <<"
+	{
+		"chi"		"** **"
+	}
+	">> Be sure to press Nuke Button <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING WATER... SOMETHING <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING THUNDERBOLT SWIM TO SAFETY <<"
+	{
+		"chi"		"** **"
+	}
+	">> DITTO IS USING SOMETHING... FUNNY? <<"
+	{
+		"chi"		"** **"
+	}
+	">> WILD DITTO IS DEFEATED RUN!!!!!!!!! <<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> 5 seconds left <<"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS PREPARING TO ATTACK ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SATAN IS ATTACKING ***"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: HELL NORMAL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
+	{
+		"chi"		"** **"
+	}
+	">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
+	{
+		"chi"		"** **"
+	}
+}

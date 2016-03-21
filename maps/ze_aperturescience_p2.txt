@@ -1,0 +1,215 @@
+"Console_T"
+{
+	"--Welcome to the Aperture Science Center--"
+	{
+		"chi"		"** **"
+	}
+	"--Map made by Eugenio **Motanum** Roman--"
+	{
+		"chi"		"** **"
+	}
+	"--Sponsored by ]HeLL[ Clan--"
+	{
+		"chi"		"** **"
+	}
+	"**Hint: Crouch to go over the glass**"
+	{
+		"chi"		"** **"
+	}
+	"--Are you sure you want to kill the Weighted Companion Cube?--"
+	{
+		"chi"		"** **"
+	}
+	"--Survive 30 seconds!--"
+	{
+		"chi"		"** **"
+	}
+	"--YES____      NO_____--"
+	{
+		"chi"		"** **"
+	}
+	"--YES _X_--"
+	{
+		"chi"		"** **"
+	}
+	"--That was a quick answer! Patience is a virtue--"
+	{
+		"chi"		"** **"
+	}
+	"--What is the rush? Did the Companion Cube said something bad?--"
+	{
+		"chi"		"** **"
+	}
+	"--We are trying to escape from zombies! And we adore the companion cube--"
+	{
+		"chi"		"** **"
+	}
+	"--You love an inanimate object! How silly!--"
+	{
+		"chi"		"** **"
+	}
+	"--But for the last time are you extremely sure you want this?--"
+	{
+		"chi"		"** **"
+	}
+	"--If thats what you REALLY want--"
+	{
+		"chi"		"** **"
+	}
+	"--5--"
+	{
+		"chi"		"** **"
+	}
+	"--4--"
+	{
+		"chi"		"** **"
+	}
+	"--3--"
+	{
+		"chi"		"** **"
+	}
+	"--2--"
+	{
+		"chi"		"** **"
+	}
+	"--1--"
+	{
+		"chi"		"** **"
+	}
+	"--Doors are open you horrible people--"
+	{
+		"chi"		"** **"
+	}
+	"--Doors clossing in 5--"
+	{
+		"chi"		"** **"
+	}
+	"--Doors closed--"
+	{
+		"chi"		"** **"
+	}
+	"--Doors will reopen in 15 seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--**HINT: Crouch to clear the orange sphere!**--"
+	{
+		"chi"		"** **"
+	}
+	"--Congratulations--"
+	{
+		"chi"		"** **"
+	}
+	"--Cake will follow up shortly--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors open in 20 seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Hold this position from any zombies--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors close in 5--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors will reopen in 20 seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors are now closed--"
+	{
+		"chi"		"** **"
+	}
+	"--Cutting the cake in 5--"
+	{
+		"chi"		"** **"
+	}
+	"--Cake is being Cut! You are too late--"
+	{
+		"chi"		"** **"
+	}
+	"--Office doors are now Open--"
+	{
+		"chi"		"** **"
+	}
+	"--Fighting GLaDOS--"
+	{
+		"chi"		"** **"
+	}
+	"--Protect yourself from the zombies for 60 seconds!--"
+	{
+		"chi"		"** **"
+	}
+	"--Zombie teleport in 25 secs!--"
+	{
+		"chi"		"** **"
+	}
+	"--GLaDOS is exploding! Take cover!--"
+	{
+		"chi"		"** **"
+	}
+	"--Lift doors open in 10 seconds!--"
+	{
+		"chi"		"** **"
+	}
+	"--Escape lift doors closing in 10 seconds--"
+	{
+		"chi"		"** **"
+	}
+	"--Lift has now left Aperture Science--"
+	{
+		"chi"		"** **"
+	}
+	"--We hope you have enjoyed your stay at Aperture Science!--"
+	{
+		"chi"		"** **"
+	}
+	"--Thanks for Playing!--"
+	{
+		"chi"		"** **"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+}

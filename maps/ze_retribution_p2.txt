@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"*** Nuclear Launch Detected ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 45 SECONDS UNTIL IMPACT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PROCEED TO A SAFE ZONE IMMEDIATELY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THERE ARE THREE BUNKERS IN THE MAP TO SURVIVE THE NUKE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 SECONDS UNTIL IMPACT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TEN SECONDS UNTIL IMPACT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Radiation Dispersed ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Survive for the time remaining or hunt the zombies ***"
+	{
+		"chi"		"** **"
+	}
+}

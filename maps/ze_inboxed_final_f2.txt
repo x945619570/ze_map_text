@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
+}

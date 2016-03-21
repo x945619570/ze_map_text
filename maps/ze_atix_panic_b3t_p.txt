@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+}

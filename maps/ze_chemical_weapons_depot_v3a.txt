@@ -1,0 +1,15 @@
+"Console_T"
+{
+	"### STAY AWAY FROM CONTAMINATE AREAS ###"
+	{
+		"chi"		"** **"
+	}
+	"### USE OFFICE DOOR INSTEAD !! ###"
+	{
+		"chi"		"** **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"chi"		"** **"
+	}
+}

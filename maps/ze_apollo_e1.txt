@@ -1,0 +1,105 @@
+"Console_T"
+{
+	"***Tram Leaving Momentarily***"
+	{
+		"chi"		"**列车即将离开**"
+	}
+	"***Airlock Door Opening In 20 Seconds***"
+	{
+		"chi"		"**气阀舱门在20秒后打开**"
+	}
+	"***Outdoor Tram Starting in 25 Seconds***"
+	{
+		"chi"		"**露天列车在25秒后离开**"
+	}
+	"***Outdoor Tram Starting in 10 Seconds***"
+	{
+		"chi"		"**露天列车在10秒后离开**"
+	}
+	"***Outdoor Tram Starting in 5 Seconds***"
+	{
+		"chi"		"**露天列车在5秒后离开**"
+		"DoorCountdown"		"5"
+	}
+	"***Rocket Lift Leaving In 10 Seconds***"
+	{
+		"chi"		"**火箭电梯在10秒后离开**"
+		"DoorCountdown"		"10"
+	}
+	"<Rocket Launch In 30 Seconds>"
+	{
+		"chi"		"**火箭在30秒后启动**"
+	}
+	"<Rocket Launch In 20 Seconds>"
+	{
+		"chi"		"**火箭在20秒后启动**"
+	}
+	"<Rocket Launch In 10 Seconds>"
+	{
+		"chi"		"**火箭在10秒后启动**"
+	}
+	"<Rocket Launch In 5 Seconds>"
+	{
+		"chi"		"**火箭在5秒后启动**"
+	}
+	"<<ROCKET LAUNCHING>>"
+	{
+		"chi"		"**火箭已启动**"
+	}
+	"<<<Map by Thatguyoverthere>>>"
+	{
+		"chi"		"**地图由Thatguyoverthere制作**"
+	}
+	"<<<Map ported by Et3rnity>>>"
+	{
+		"chi"		"**地图由Et3rnity移植&dy2084翻译**"
+	}
+	"***Aux Door Opening In 30 Seconds***"
+	{
+		"chi"		"**副门在30秒后打开**"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,136 @@
+"Console_T"
+{
+	"Map made by Cuniczek"
+	{
+		"chi"		"** **"
+	}
+	"Thanks to Enviolinador & Darnias"
+	{
+		"chi"		"** **"
+	}
+	"All paths are dead."
+	{
+		"chi"		"** **"
+	}
+	"A safehouse spawned at spawn."
+	{
+		"chi"		"** **"
+	}
+	"CT flags can now teleport humans back to spawn."
+	{
+		"chi"		"** **"
+	}
+	"All coins collected."
+	{
+		"chi"		"** **"
+	}
+	"Proceed to find a safehouse if you want to survive."
+	{
+		"chi"		"** **"
+	}
+	"Safehouse doors opening in 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Safehouse doors closing in 30 seconds."
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"Safehouse doors closing in 20 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Safehouse doors closing in 10 seconds."
+	{
+		"chi"		"** **"
+	}
+	"Some items have spawned on top of safehouses."
+	{
+		"chi"		"** **"
+	}
+	"Platforms are now breakable!"
+	{
+		"chi"		"** **"
+	}
+	"Meteors are raining from the sky!"
+	{
+		"chi"		"** **"
+	}
+	"Zombies have secured a checkpoint."
+	{
+		"chi"		"** **"
+	}
+	"No safehouse spawned. Map broken rtv."
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"Map By: Bill Smauz"
+	{
+		"chi"		"** **"
+	}
+	"Map For: www.zombiemurder.com"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

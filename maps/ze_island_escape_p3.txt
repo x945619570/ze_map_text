@@ -1,0 +1,48 @@
+"Console_T"
+{
+	"*** Rescue boats inbound ***"
+	{
+		"chi"		"**救援船已到达**"
+	}
+	"*** Volcanic eruption imminent. 40 seconds to boat departure ***"
+	{
+		"chi"		"**火山即将喷发：40秒后救援船离开**"
+	}
+	"*** Volcanic eruption imminent. 20 seconds to boat departure ***"
+	{
+		"chi"		"**火山即将喷发：20秒后救援船离开**"
+	}
+	"*** Volcanic eruption imminent. 10 seconds to boat departure ***"
+	{
+		"chi"		"**火山即将喷发：10秒后救援船离开**"
+		"DoorCountdown"		"10"
+	}
+	"*** Volcanic eruption imminent. 5 seconds to boat departure ***"
+	{
+		"chi"		"**火山即将喷发：5秒后救援船离开**"
+	}
+	"*** Volcanic eruption in 10 seconds ***"
+	{
+		"chi"		"**10秒后火山喷发**"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"Map By: Bill Smauz"
+	{
+		"chi"		"** **"
+	}
+	"Map For: www.zombiemurder.com"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+}

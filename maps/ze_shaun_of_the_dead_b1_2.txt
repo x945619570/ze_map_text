@@ -1,0 +1,239 @@
+"Console_T"
+{
+	"***BOAT ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPENS IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPENS IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPENS IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DOORS OPENS IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***AFK TELE 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR ON THE WAY***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR IS HERE***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THE WINDOWS***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRUCKS LEAVE IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRUCKS LEAVE IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***HUMANS STAY ON THE BLUE TRUCK***"
+	{
+		"chi"		"** **"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"***A PLAYER NEEDS TO GO INSIDE THE VENT***"
+	{
+		"chi"		"** **"
+	}
+	"***GET TO THE SAFETY OF THE WINCHESTER***"
+	{
+		"chi"		"** **"
+	}
+	"***COVER THE DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE ROUTE: ROOFTOP***"
+	{
+		"chi"		"** **"
+	}
+	"***RESTORE THE POWER***"
+	{
+		"chi"		"** **"
+	}
+	"***WATCH OUT FOR ZOMBIES AT THE BACK DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK UPSTAIRS***"
+	{
+		"chi"		"** **"
+	}
+	"***ENTER THE SEWERS***"
+	{
+		"chi"		"** **"
+	}
+	"***FLOOD GATE OPENING***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVING 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GET GAS FOR THE BOAT***"
+	{
+		"chi"		"** **"
+	}
+	"***LOOK IN THE SUPPLY SHED***"
+	{
+		"chi"		"** **"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT REFUELING***"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT LEAVES IN 5 SECONDS!***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES TAKE THE BRIDGE***"
+	{
+		"chi"		"** **"
+	}
+	"***A PLAYER NEEDS TO ACTIVATE THE GATE"
+	{
+		"chi"		"** **"
+	}
+	"***LOCK GATE 1 OPEING***"
+	{
+		"chi"		"** **"
+	}
+	"***SOMEONE NEEDS TO UP THE WATER LEVELS***"
+	{
+		"chi"		"** **"
+	}
+	"***USE THE PIPES TO GAIN ACCESS THE CONTROL ROOM***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT OF THE BOAT AND HOLD!***"
+	{
+		"chi"		"** **"
+	}
+	"***TRY TO HOLD THE BOXES***"
+	{
+		"chi"		"** **"
+	}
+	"***WATER LEVELS RISING***"
+	{
+		"chi"		"** **"
+	}
+	"***LOCK GATE 2 OPEING***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENS IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE ROUTE: CELLAR***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK BEHIND THE BAR***"
+	{
+		"chi"		"** **"
+	}
+	"***WAIT FOR HATCH TO OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***HATCH IS OPEN FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***LIFT LEAVING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***LIFT LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOTGUN OUT OF AMMO***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+}

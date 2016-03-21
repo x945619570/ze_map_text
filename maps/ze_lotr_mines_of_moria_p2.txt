@@ -1,0 +1,159 @@
+"Console_T"
+{
+	"**Map by: Hannibal [SPA] (Rafuron)**"
+	{
+		"chi"		"**地图作者：汉尼拔[SPA] (Rafuron)原翻译：superjond，补充：此用户已删除**"
+	}
+	"**Bring the ring to Khazad-Dum bridge to win easily**"
+	{
+		"chi"		"**将魔戒带到卡萨都姆大桥以便防守（删除:推荐尸变后再拿魔戒）**"
+	}
+	"**The ring has been picked!**"
+	{
+		"chi"		"魔戒已被捡起"
+	}
+	"**Gandalf staff has been picked!**"
+	{
+		"chi"		"**甘道夫法杖被捡起,作用：击退僵尸（慎用，有bug)**"
+	}
+	"**Humans have reached Balin's tomb! Resist 55 s**"
+	{
+		"chi"		"**人类已经到达巴林的墓室，防守55秒(删除：不要乱关城门）**"
+	}
+	"**Balin's door closing in 10 s**"
+	{
+		"chi"		"墓室的门10秒后关闭"
+	}
+	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+	{
+		"chi"		"**炎魔15秒后到达（僵尸还有15s传送）**"
+	}
+	"**Resist 30 s**"
+	{
+		"chi"		"防守30秒"
+	}
+	"**Resist 15 s**"
+	{
+		"chi"		"防守15秒"
+	}
+	"**Zombies have been alerted!**"
+	{
+		"chi"		"**特殊事件触发：僵尸已被警戒，人类快撤**"
+	}
+	"**Go to the Khazad-Dum bridge!**"
+	{
+		"chi"		"赶到卡萨都姆大桥！"
+	}
+	"**Stay in the circle! Zombies can't go in!**"
+	{
+		"chi"		"站在光圈内，僵尸进不来"
+	}
+	"** Protection ring will close in 15 s **"
+	{
+		"chi"		"光圈15秒后失效"
+	}
+	"** ... **"
+	{
+		"chi"		"诶"
+	}
+	"** Moria is unstable! Run towards the stairs in  **"
+	{
+		"chi"		"矿坑开始坍塌，向楼梯进发"
+	}
+	"**5**"
+	{
+		"chi"		"5"
+	}
+	"**4**"
+	{
+		"chi"		"4"
+	}
+	"**3**"
+	{
+		"chi"		"3"
+	}
+	"**2**"
+	{
+		"chi"		"2"
+	}
+	"**1**"
+	{
+		"chi"		"1"
+	}
+	"**Go!**"
+	{
+		"chi"		"跑！"
+	}
+	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+	{
+		"chi"		"**炎魔15秒后到达（僵尸还有15s传送）**"
+	}
+	"**(Zombies) The door to Khazad-Dum bridge is now open**"
+	{
+		"chi"		"通往卡萨都姆大桥的门现在打开了"
+	}
+	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+	{
+		"chi"		"人类同盟成功护送魔戒到达卡萨都姆大桥，两条木桥已摧毁"
+	}
+	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+	{
+		"chi"		"**炎魔15秒后到达（僵尸15s后传送）**"
+	}
+	"**Gandalf in the middle**"
+	{
+		"chi"		"甘道夫站在桥中间"
+	}
+	"**Protect Gandalf during 35s! He must break the bridge! **"
+	{
+		"chi"		"保护甘道夫35秒，他必须摧毁那条桥"
+	}
+	"**Gandalf is dead!**"
+	{
+		"chi"		"**甘道夫已死，人类GG**"
+	}
+	"**Saruman staff has been picked!**"
+	{
+		"chi"		"**萨鲁曼法杖已被捡起，作用：减速僵尸**"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+}

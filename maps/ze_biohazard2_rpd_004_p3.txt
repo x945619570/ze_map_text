@@ -1,0 +1,71 @@
+"Console_T"
+{
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	"Map By: Bill Smauz"
+	{
+		"chi"		"** **"
+	}
+	"Map For: www.zombiemurder.com"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,35 @@
+"Console_T"
+{
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+}

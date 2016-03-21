@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"**DIFFICULTY: NORMAL**"
+	{
+		"chi"		"** **"
+	}
+	"**OBJECTIVE: Infiltrate and steal the enemy intelligence**"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Complexity for being a noob and testing!**"
+	{
+		"chi"		"** **"
+	}
+	"**Front doors will be opening in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**Doors will be opening in 20 seconds. Hold the zombies back!**"
+	{
+		"chi"		"** **"
+	}
+	"**Hold here for awhile!**"
+	{
+		"chi"		"** **"
+	}
+	"**Fall back!**"
+	{
+		"chi"		"** **"
+	}
+	"**Find a way to disable the security system to advance!**"
+	{
+		"chi"		"** **"
+	}
+	"**The security system has been disabled!**"
+	{
+		"chi"		"** **"
+	}
+	"**Doors will be opening in 10 seconds! Hold the zombies off!**"
+	{
+		"chi"		"** **"
+	}
+	"**Wait here for awhile!**"
+	{
+		"chi"		"** **"
+	}
+}

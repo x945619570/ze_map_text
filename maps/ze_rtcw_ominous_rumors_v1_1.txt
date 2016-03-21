@@ -1,0 +1,307 @@
+"Console_T"
+{
+	"# WARM UP ROUND #"
+	{
+		"chi"		"** **"
+	}
+	"# RETURN TO CASTLE WOLFENSTEIN #"
+	{
+		"chi"		"** **"
+	}
+	"# MAP BY JB_GAMBLE #"
+	{
+		"chi"		"** **"
+	}
+	"# MISSION 1 - OMINOUS RUMORS #"
+	{
+		"chi"		"** **"
+	}
+	"# PART 1 - ESCAPE! #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> HOLD THIS POSITION <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> GATE OPEN <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> FALL BACK <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> DOOR OPEN <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> HOLD HERE <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# BLACK MAGIC #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> FINAL DOOR CLOSING IN <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 40 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 30 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 20 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 10 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 5 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# PART 2 - CASTLE KEEP #"
+	{
+		"chi"		"** **"
+	}
+	"# HOLD HERE #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> ACTIVATE LEVER <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# 10 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> GO GO GO <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> UP THE STAIRS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# HOLD THIS POSITION #"
+	{
+		"chi"		"** **"
+	}
+	"# PRESS BUTTON #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> GO LEFT <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# UNLIMITED AMMO #"
+	{
+		"chi"		"** **"
+	}
+	"# UNLIMITED AMMO - 14 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> DEFEND THIS POSITION <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# PART 3 - TRAM RIDE #"
+	{
+		"chi"		"** **"
+	}
+	"# TRAM ON ITS WAY #"
+	{
+		"chi"		"** **"
+	}
+	"# TRAM ARRIVED #"
+	{
+		"chi"		"** **"
+	}
+	"# TRAM IS LEAVING #"
+	{
+		"chi"		"** **"
+	}
+	"# HOLD TRAM #"
+	{
+		"chi"		"** **"
+	}
+	"# TRAM START IN 20 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# DOOR OPEN IN 20 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# DOOR OPEN #"
+	{
+		"chi"		"** **"
+	}
+	"# TORCH #"
+	{
+		"chi"		"** **"
+	}
+	"# FINAL DOOR CLOSING IN 20 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 5 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> EASY COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# SANDBAG WALL #"
+	{
+		"chi"		"** **"
+	}
+	"# MAGIC - FOG #"
+	{
+		"chi"		"** **"
+	}
+	"# VENT OPEN IN 15 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# VENT OPEN #"
+	{
+		"chi"		"** **"
+	}
+	"# FINAL DOOR CLOSING IN 40 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 30 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 20 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> MED COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - BLACK MAGIC #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 60 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> 50 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - BAZOOKA #"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - SANDBAG WALL #"
+	{
+		"chi"		"** **"
+	}
+	"# MAGIC - FREEZE #"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"# BAZOOKA #"
+	{
+		"chi"		"** **"
+	}
+	"# MG42 AMMO #"
+	{
+		"chi"		"** **"
+	}
+	"# MG42 AMMO LOADED #"
+	{
+		"chi"		"** **"
+	}
+	"# FLAMETHROWER #"
+	{
+		"chi"		"** **"
+	}
+	"# FLAMETHROWER EMPTY #"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - UNLIMITED AMMO #"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> GATE OPEN IN 30 SECONDS <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# FALL BACK - DOOR #"
+	{
+		"chi"		"** **"
+	}
+	"# TURN TRAM POWER ON #"
+	{
+		"chi"		"** **"
+	}
+	"# GO GO #"
+	{
+		"chi"		"** **"
+	}
+	"# TRAM START IN 30 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# FINAL DOOR CLOSING IN 50 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+	"# 40 SECONDS #"
+	{
+		"chi"		"** **"
+	}
+}

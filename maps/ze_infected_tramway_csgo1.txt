@@ -1,0 +1,394 @@
+"Console_T"
+{
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"**地图正在选择默认难度**"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"**感谢[PF] PlagueFest的大力支持!**"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"**等待玩家..**"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"**20秒后复位游戏**"
+	}
+	"***Obtain the plans to a secret rocket launch pad!***"
+	{
+		"chi"		"**你们需要拿到获取机密火箭发射台的平面图**"
+	}
+	"**Use the tramway to get to the Helicopters!**"
+	{
+		"chi"		"**然后带着它利用这里的索道到达撤离直升机上**"
+	}
+	"***No fall damage***"
+	{
+		"chi"		"**坠落伤害已关闭**"
+	}
+	"**AFK Killer enabled for 5 seconds**"
+	{
+		"chi"		"**5秒后处死所有AFK玩家**"
+	}
+	"**T minus 60 seconds**"
+	{
+		"chi"		"**剩余60秒**"
+		"DoorCountdown"		"60"
+	}
+	"**Hacking into the barrier and door system**"
+	{
+		"chi"		"**正在入侵屏障门控系统**"
+	}
+	"**Hold the octagon until gates are open!**"
+	{
+		"chi"		"**在大门打开之前守住平台!**"
+	}
+	"**Calculating progress time**"
+	{
+		"chi"		"**正在计算进程时间**"
+	}
+	"**AFK Killer is off**"
+	{
+		"chi"		"**AFK杀手已被关闭**"
+	}
+	"**T minus 30 seconds**"
+	{
+		"chi"		"**剩余30秒**"
+	}
+	"**T minus 10 seconds**"
+	{
+		"chi"		"**剩余10秒**"
+	}
+	"**Gates are opening and barriers are online!**"
+	{
+		"chi"		"**大门正在开启，僵尸将被屏障挡住**"
+	}
+	"**Barrier system deactivated in 15 seconds**"
+	{
+		"chi"		"**屏障系统15秒后关闭**"
+	}
+	"**Barrier system is broken! Watch your backs!**"
+	{
+		"chi"		"**屏障系统已关闭！小心菊花！**"
+	}
+	"**Monitor B active**"
+	{
+		"chi"		"**显示器B已开启**"
+	}
+	"**Monitor A active**"
+	{
+		"chi"		"**显示器A已开启**"
+	}
+	"**Plans aquired**"
+	{
+		"chi"		"**我们找到了情报**"
+	}
+	"**Find a way out of here!**"
+	{
+		"chi"		"**找个办法离开这里(提示:按下侧边房间的C4)**"
+	}
+	"**T minus 45s for detonation**"
+	{
+		"chi"		"**C4 45秒后爆炸**"
+		"DoorCountdown"		"45"
+	}
+	"**T minus 30s for detonation**"
+	{
+		"chi"		"**C4 30秒后爆炸**"
+	}
+	"**T minus 15s for detonation**"
+	{
+		"chi"		"**C4 15秒后爆炸**"
+	}
+	"**Blast door system is broken!**"
+	{
+		"chi"		"**屏障门正在关闭!**"
+	}
+	"**Building power for Tramway! 90 seconds remaining!**"
+	{
+		"chi"		"**索道正在恢复供电!90秒后缆车离开!**"
+		"DoorCountdown"		"90"
+		"
+	}
+	"		"**Final"
+		"wave"		"inminent!**"
+		"
+	{
+		"		"chi"
+		"		"		"**顶住最后一波僵尸!**"
+		"
+	}
+	"		"**Tramway"
+		"leaving"		"in"
+		"60"		"seconds!**"
+		"
+	{
+		"		"chi"
+		"		"		"**60秒后缆车离开!**"
+		"
+	}
+	"		"**Tramway"
+		"leaving"		"in"
+		"30"		"seconds!**"
+		"
+	{
+		"		"chi"
+		"		"		"**30秒后缆车离开!**"
+		"
+	}
+	"		"**Tramway"
+		"leaving"		"in"
+		"10"		"seconds!**"
+		"
+	{
+		"		"chi"
+		"		"		"**10秒后缆车离开!**"
+		"
+	}
+	"		"**Tramway"
+		"has"		"left"
+		"the"		"station!**"
+		"
+	{
+		"		"chi"
+		"		"		"**缆车正在离开!**"
+		"
+	}
+	"		"**Get"
+		"to"		"the"
+		"chopper**"		"
+	{
+		"
+		"chi"		"		"
+		"**跳到直升机里!**"		"
+	}
+	"
+		"***Easy"		"mode"
+		"completed***"		"
+	{
+		"
+		"chi"		"		"
+		"**简单难度已完成**"		"
+	}
+	"
+		"***Changing"		"level"
+		"to"		"Normal***"
+		"
+	{
+		"		"chi"
+		"		"		"**正在进入普通难度**"
+		"
+	}
+		"		"***Changing"
+		"level"		"to"
+		"Hard***"		"
+	{
+		"
+		"chi"		"		"
+		"**正在进入困难难度**"		"
+	}
+		"
+		"***Changing"		"level"
+		"to"		"suicide***"
+		"
+	{
+		"		"chi"
+		"		"		"**正在进入极限难度**"
+		"
+	}
+		"		"***Admin"
+		"changed"		"difficulty"
+		"to"		"easy***"
+		"
+	{
+		"		"chi"
+		"		"		"**地图作者或管理员已设置下局难度为简单**"
+		"
+	}
+		"		"***Admin"
+		"changed"		"difficulty"
+		"to"		"normal***"
+		"
+	{
+		"		"chi"
+		"		"		"**地图作者或管理员已设置下局难度为普通**"
+		"
+	}
+		"		"***Admin"
+		"changed"		"difficulty"
+		"to"		"hard***"
+		"
+	{
+		"		"chi"
+		"		"		"**地图作者或管理员已设置下局难度为困难**"
+		"
+	}
+			"		"***Admin"
+		"changed"		"difficulty"
+		"to"		"suicide***"
+		"
+	{
+		"		"chi"
+		"		"		"**地图作者或管理员已设置下局难度为极限**"
+		"
+	}
+			"		"***Admin"
+		"is"		"in"
+		"difficulty"		"settings"
+		"room***"		"
+	{
+		"
+		"chi"		"		"
+		"**地图作者或管理员进入了跳关房**"		"
+	}
+				"
+		"***Admin"		"left"
+		"difficulty"		"settings"
+		"room***"		"
+	{
+		"
+		"chi"		"		"
+		"**地图作者或管理员离开了跳关房**"		"
+	}
+				"
+		"***Suicide"		"level"
+		"complete!***"		"
+	{
+		"
+		"chi"		"		"
+		"**极限难度已完成,你们征服了这张地图!**"		"
+	}
+				"
+		"***Hard"		"level"
+		"complete!***"		"
+	{
+		"
+		"chi"		"		"
+		"**困难难度已完成**"		"
+	}
+				"
+		"***Mission"		"Status:"
+		"Aborted***"		"
+	{
+		"
+		"chi"		"		"
+		"**跳关操作完成,本回合即将结束**"		"
+	}
+}
+"
+	}
+	"**Final Wave inminent!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 60 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 30 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway leaving in 10 seconds!**"
+	{
+		"chi"		"** **"
+	}
+	"**Tramway has left the station!**"
+	{
+		"chi"		"** **"
+	}
+	"***Easy mode completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Normal***"
+	{
+		"chi"		"** **"
+	}
+	"**Get to the chopper**"
+	{
+		"chi"		"** **"
+	}
+	"***Executing game reset****"
+	{
+		"chi"		"** **"
+	}
+	"***Zombies reached rescue vehicle!***"
+	{
+		"chi"		"** **"
+	}
+	"***Difficulty will not change***"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Hard***"
+	{
+		"chi"		"** **"
+	}
+	"***Normal mode completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Hard mode completed***"
+	{
+		"chi"		"** **"
+	}
+	"***Changing level to Suicide***"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+}

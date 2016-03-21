@@ -1,0 +1,224 @@
+"Console_T"
+{
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"***RESTORE THE POWER!***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS POSITION!***"
+	{
+		"chi"		"** **"
+	}
+	"***POWER RESTORING IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***POWER RESTORING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***POWER RESTORING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORTING ALL TO GENERATOR CATWALK***"
+	{
+		"chi"		"** **"
+	}
+	"***POWER HAS BEEN RESTORED***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***GO TO THE CONTROL ROOM***"
+	{
+		"chi"		"** **"
+	}
+	"***SHOTGUN OUT OF AMMO***"
+	{
+		"chi"		"** **"
+	}
+	"***GET INTO THE TRUCK***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT THE TRUCK AND GO TO THE HATCH***"
+	{
+		"chi"		"** **"
+	}
+	"***LIFT IS COMING***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THIS POSTION***"
+	{
+		"chi"		"** **"
+	}
+	"***LIFT IS HERE!***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"20"
+	}
+	"***DOOR WILL OPEN IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***CT WIN!***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVING ON TO HARD MODE***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS HARD***"
+	{
+		"chi"		"** **"
+	}
+	"***USE GENERATOR TO ENABLE POWER TO BUTTON***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BUTTON WILL CLOSE THE GATES***"
+	{
+		"chi"		"** **"
+	}
+	"***GO GO PLANT THE C4***"
+	{
+		"chi"		"** **"
+	}
+	"***ON THE DOOR TO THE CONTAINER***"
+	{
+		"chi"		"** **"
+	}
+	"***PRESS USE ON THE CONTAINER DOOR***"
+	{
+		"chi"		"** **"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT REFUELING***"
+	{
+		"chi"		"** **"
+	}
+	"***MOVING ON TO EXTREME MODE***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS EXTREME***"
+	{
+		"chi"		"** **"
+	}
+	"***LOOK OUT!!! ITS A T-REX***"
+	{
+		"chi"		"** **"
+	}
+	"***KILL IT!***"
+	{
+		"chi"		"** **"
+	}
+	"***FOLLOW THE ELECTRIC PATH***"
+	{
+		"chi"		"** **"
+	}
+	"***CLIMB THE ROCKS!***"
+	{
+		"chi"		"** **"
+	}
+	"***GROUND DOORS WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GROUND DOORS WILL OPEN IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GROUND DOORS WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GROUND DOORS ARE OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***ITS FALLING DOWN!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THE DOOR UNTIL IT OPENS!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WON!!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU WON!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***THANKS FOR PLAYING : )***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP RESET***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIE DETECTED***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFXII_FEYWOOD**"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+}

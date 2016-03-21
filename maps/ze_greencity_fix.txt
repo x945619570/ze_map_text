@@ -1,0 +1,27 @@
+"Console_T"
+{
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,255 @@
+"Console_T"
+{
+	"** [MODE] SLENDERMAN **"
+	{
+		"chi"		"** **"
+	}
+	"** [MAP] PRISON **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] Lantern - Glowstick - Flashlight **"
+	{
+		"chi"		"** **"
+	}
+	"** [ZMITEM] SLENDERZOMBIES **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporting HUMANS in 5 secs **"
+	{
+		"chi"		"** **"
+	}
+	"** Collect all 8 Pages **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleporting ZOMBIES in 5 secs **"
+	{
+		"chi"		"** **"
+	}
+	"** [MODE] HIDE 'n SEEK! **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] Crate - Barrel - Shelves  **"
+	{
+		"chi"		"** **"
+	}
+	"** [ZMITEM] SPIDERZOMBIES! **"
+	{
+		"chi"		"** **"
+	}
+	"** Find a prop to hide yourself **"
+	{
+		"chi"		"** **"
+	}
+	"** SPIDERZOMBIE INCOMING **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 90 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 60 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** [MODE] BARRELMODE **"
+	{
+		"chi"		"** **"
+	}
+	"** [MAP] FOREST **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] BARRELS ! **"
+	{
+		"chi"		"** **"
+	}
+	"** [ZMITEM] BARRELBOSS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 180 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 150 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE in 120 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** SLENDERZOMBIE INCOMING **"
+	{
+		"chi"		"** **"
+	}
+	"** Pages 18 **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 Seconds left until slenderman RAPE! **"
+	{
+		"chi"		"** **"
+	}
+	"** [MAP] SCHOOL **"
+	{
+		"chi"		"** **"
+	}
+	"** [MODE] MADNESS! **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] Lantern - Glowstick - Monkey BOMB **"
+	{
+		"chi"		"** **"
+	}
+	"** SURVIVE **"
+	{
+		"chi"		"** **"
+	}
+	"** INVADERS MUST DIE !! **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won NORMAL **"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** **"
+	}
+	"** [MODE] 1 WAY 1 EXIT **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] Flashlights **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** [MODE] POWER THE FOREST! **"
+	{
+		"chi"		"** **"
+	}
+	"** [ITEMS] Lanterns ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Power the generator by collecting fuel cans **"
+	{
+		"chi"		"** **"
+	}
+	"** Some humans defend here - while others get the fuel cans **"
+	{
+		"chi"		"** **"
+	}
+	"** FUEL 20 % **"
+	{
+		"chi"		"** **"
+	}
+	"** FUEL 40 % **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 Seconds left until enemy NUKE **"
+	{
+		"chi"		"** **"
+	}
+	"** You have failed - NO TIME LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Pages 38 **"
+	{
+		"chi"		"** **"
+	}
+	"** Pages 48 **"
+	{
+		"chi"		"** **"
+	}
+	"** Pages 58 **"
+	{
+		"chi"		"** **"
+	}
+	"** BARRELBOSS INCOMING **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 30 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Pages 68 **"
+	{
+		"chi"		"** **"
+	}
+	"** FUEL 60 % **"
+	{
+		"chi"		"** **"
+	}
+	"** Prison door will open in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** GO LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 30 seconds until the gate opens **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 5 more seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** 50 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** 40 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 seconds left until final escape!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Go UP the ladder!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Incoming nuke in 8 seconds!! **"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,79 @@
+"Console_T"
+{
+	"*** USE CONTROL PANEL TO STOP FANS ***"
+	{
+		"chi"		"**用控制面板来停止这些风扇**"
+	}
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	{
+		"chi"		"**警告：风扇已停止并已启动自动模式**"
+	}
+	"*** WAIT FOR DOOR TO OPEN ***"
+	{
+		"chi"		"**等待大门打开**"
+	}
+	"*** SMALL DOORS CLOSING ***"
+	{
+		"chi"		"**小门正在关闭**"
+	}
+	"*** USE THE FAN TO PUSH YOU UP ***"
+	{
+		"chi"		"** 用风扇推你上去！**"
+	}
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	{
+		"chi"		"**警告：轨道和水里通着高压电**"
+	}
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	{
+		"chi"		"**已得到卡车燃料-等待1分钟直到加油完成**"
+	}
+	"*** DOORS CLOSING ***"
+	{
+		"chi"		"**门正在关闭！**"
+	}
+	"*** DOOR MALFUNCTION ***"
+	{
+		"chi"		"**门发生故障！**"
+	}
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	{
+		"chi"		"**卡车已加满燃料-赶紧到卡车上去**"
+	}
+	"*** USE RADIO TO LAUNCH NUKE ***"
+	{
+		"chi"		"**使用无线电发射核弹**"
+	}
+	"*** NUKE IN 5 SECONDS ***"
+	{
+		"chi"		"**核打击将于5秒后到达**"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"chi"		"**地图制作：JB_GAMBLE**"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+}

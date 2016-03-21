@@ -1,0 +1,160 @@
+"Console_T"
+{
+	">>>The bridge will be activated in 40 seconds!<<<"
+	{
+		"chi"		">>> 桥将于 40秒 后激活 <<<"
+	}
+	">>>Door open in 40 seconds<<<"
+	{
+		"chi"		"<<< 门将于 40秒 后打开 <<<"
+		"CountDown"		"40"
+	}
+	">>>Gate will open in 40 seconds!<<<"
+	{
+		"chi"		"<<< 大门将于 40秒 后打开 <<<"
+	}
+	"---Special Thank To:HZM654321 and JackBauer123---"
+	{
+		"chi"		"** **"
+	}
+	"---Map made by Jeff---"
+	{
+		"chi"		"** **"
+	}
+	"---Have Fun!---"
+	{
+		"chi"		"** **"
+	}
+	"---Feedback:noojeff@gmail.com---"
+	{
+		"chi"		"** **"
+	}
+	">>>Now get in the tunnel!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>And def the path for 30 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door has opened,GOGOGO<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Now hold these bridges!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>10 seconds left!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door has opened,RUUUUUUNNN<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Lowing the bridge,GO!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Zombies trapped for 17 seconds!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door opening<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Please wait<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>This door is moving VERY SLOWLY<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Thanks for your patience<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door now is fully opened<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>AFK teleport in 20s<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Zombies trapped for 25 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>10 seconds left<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Exit is open!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door close in 5s<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Teleport initializing<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>PLease Stand By<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>10%<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door B fatal ERROR detected<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Def!!!!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>50%<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Door A Losing power!!!<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>WATCH OUT<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>90%<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Teleport is Online<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Get in the Teleport!!!!<<<"
+	{
+		"chi"		"** **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+}

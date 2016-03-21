@@ -1,0 +1,115 @@
+"Console_T"
+{
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***GO!GO!GO!***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT THE WALL ***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 30 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL COMPLETED!!"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIES INSIDE!!!***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 2<<"
+	{
+		"chi"		"** **"
+	}
+	"***GO!***"
+	{
+		"chi"		"** **"
+	}
+	"***STAY ON GLOWING AREA OR...***"
+	{
+		"chi"		"** **"
+	}
+	"***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***"
+	{
+		"chi"		"** **"
+	}
+	"***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***"
+	{
+		"chi"		"** **"
+	}
+	"***TRY TO KILL IT WITH SOMETHING ELSE***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 3<<"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 10 SECONDS!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** GET OFF THE ELEVATOR!!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** OH NO! ITS UKA UKA!!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** KILL IT BEFORE IT DOES SOMETHING***"
+	{
+		"chi"		"** **"
+	}
+	"*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1 Extreme<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend both sides***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 2 Extreme<<"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 3 Extreme<<"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+}

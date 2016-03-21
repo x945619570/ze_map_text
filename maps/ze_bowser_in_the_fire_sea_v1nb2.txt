@@ -1,0 +1,83 @@
+"Console_T"
+{
+	"*** original : Super mario 64 Bowser in the fire sea ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING : This map was ported from CS:S ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NOBOSS   NO ITEM   ***"
+	{
+		"chi"		"** **"
+	}
+	"*** It become simply map... ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"*** creating particle helped by Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT LEAVES IN 15 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT LEAVES IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wall will become can climb in 40 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STUCK TELEPORT IS ENABLED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STUCKER HURRY TO RUN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO GO !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU CAN CLIMB THE WALL ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT WILL RISE IN 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LIFT WILL RISE IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** GO !! GO !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NORMAL MODE COMPLETED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+}

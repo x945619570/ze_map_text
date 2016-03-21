@@ -1,0 +1,348 @@
+"Console_T"
+{
+	">>MISSION 1: INTERCEPTION (EASY)<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD THE COMPOUND FOR 50 SECONDS<<"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"50"
+	}
+	">>10 SECONDS LEFT<<"
+	{
+		"chi"		"** **"
+	}
+	">>FALL BACK<<"
+	{
+		"chi"		"** **"
+	}
+	">>SPLIT UP! GO TOP AND BOTTOM<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD FOR 40 SECONDS<<"
+	{
+		"chi"		"** **"
+	}
+	">>DOORS ARE OPEN! FALL BACK<<"
+	{
+		"chi"		"** **"
+	}
+	">>ELEVATOR LEAVING IN 15 SECONDS<<"
+	{
+		"chi"		"** **"
+	}
+	">>Laboratory door seals in 30 seconds!! Hold the lab!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hit the green button on the computer!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Door re-opens in 25 seconds! Escape!<<"
+	{
+		"chi"		"** **"
+	}
+	">>You've awoken some sort of prototype...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Guards are on their way!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>ESCAPE THROUGH THE OPEN DOOR!<<"
+	{
+		"chi"		"** **"
+	}
+	">>DEFENSE FIELD STILL ACTIVE!<<"
+	{
+		"chi"		"** **"
+	}
+	">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<"
+	{
+		"chi"		"** **"
+	}
+	">>NICE JOB! Shields powering down...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hold for 20 seconds...<<"
+	{
+		"chi"		"** **"
+	}
+	">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<"
+	{
+		"chi"		"** **"
+	}
+	">>ENEMY HELICOPTER INCOMING!<<"
+	{
+		"chi"		"** **"
+	}
+	">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Zombies have infected the helicopter! Game-over!<<"
+	{
+		"chi"		"** **"
+	}
+	">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>NICE JOB! Helicopter leaving in 5 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU COMPLETED MISSION 1<<"
+	{
+		"chi"		"** **"
+	}
+	">>MISSION 2: ELIMINATION (HARD)<<"
+	{
+		"chi"		"** **"
+	}
+	">>Hold onto this...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator activating in 20 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>Lab door opening in 10 seconds...<<"
+	{
+		"chi"		"** **"
+	}
+	">>REBOOTING...<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD FOR 40<<"
+	{
+		"chi"		"** **"
+	}
+	">>Teleporting in 10 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>You've been taken to the creature's home planet...<<"
+	{
+		"chi"		"** **"
+	}
+	">>We've found the source of Prototech's power!<<"
+	{
+		"chi"		"** **"
+	}
+	">>They've been harvesting this creature's planet for energy... they are the monsters!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP: Break the glass where the zombies are approaching from!<<"
+	{
+		"chi"		"** **"
+	}
+	">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Throw a blue cube into this! (Hint: Drop the weapon)<<"
+	{
+		"chi"		"** **"
+	}
+	">>TIP: Toss the special deagles into their respective colors to the right!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Throw a red cube into this! (Hint: Drop the weapon)<<"
+	{
+		"chi"		"** **"
+	}
+	">>Bridges disabled! Nice job<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU DID IT! RUN FOR THE EXIT<<"
+	{
+		"chi"		"** **"
+	}
+	">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD FOR 5 SECONDS<<"
+	{
+		"chi"		"** **"
+	}
+	">>The glass is going to shatter!! Get ready!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU HAVE DEFEATED PROTOTECH<<"
+	{
+		"chi"		"** **"
+	}
+	">>MISSION 3: FINAL ESCAPE (EXTREME)<<"
+	{
+		"chi"		"** **"
+	}
+	">>Upper door opening in 35 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	">>Gate is preparing to open! Get on the trucks!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Trucks leaving in 20 seconds!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Doors opening...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Activate the elevator to prepare your escape!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Don't let any zombies into the facility!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Doors opening in 30 seconds...<<"
+	{
+		"chi"		"** **"
+	}
+	">>Elevator departing in 10 seconds...<<"
+	{
+		"chi"		"** **"
+	}
+	">>....it looks like someone was waiting for us...<<"
+	{
+		"chi"		"** **"
+	}
+	">>THE PROTOTYPE HAS BEEN DEFEATED!<<"
+	{
+		"chi"		"** **"
+	}
+	">>ESCAPE WHILE YOU STILL CAN<<"
+	{
+		"chi"		"** **"
+	}
+	">>IT IS NOT DEAD!! SHOOT IT!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>The prototype is dead...<<"
+	{
+		"chi"		"** **"
+	}
+	">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<"
+	{
+		"chi"		"** **"
+	}
+	">>YOU WIN! MOVING ON TO ZM<<"
+	{
+		"chi"		"** **"
+	}
+	">>Zombies infected the teleporter! Game over!<<"
+	{
+		"chi"		"** **"
+	}
+	">>MISSION 4: ZM<<"
+	{
+		"chi"		"** **"
+	}
+	">>Survive until the zombie nuke!<<"
+	{
+		"chi"		"** **"
+	}
+	">>TYPE MAT_COLORCORRECTION 0 TO DISABLE CC<<"
+	{
+		"chi"		"** **"
+	}
+	">>Missions restart after this round<<"
+	{
+		"chi"		"** **"
+	}
+	">>Turn music to zero in options to mute the song<<"
+	{
+		"chi"		"** **"
+	}
+	">>Rotating stopped! Nice Job!<<"
+	{
+		"chi"		"** **"
+	}
+	">>10 seconds remain!<<"
+	{
+		"chi"		"** **"
+	}
+	">>CTs took too long! Game over!<<"
+	{
+		"chi"		"** **"
+	}
+	">>Train door opening in 40 seconds<<"
+	{
+		"chi"		"** **"
+	}
+	"***OFFICE ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"** **"
+	}
+	"---Feedback:noojeff@gmail.com---"
+	{
+		"chi"		"** **"
+	}
+	"---Special Thank To:HZM654321 and JackBauer123---"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+}

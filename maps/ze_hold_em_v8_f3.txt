@@ -1,0 +1,72 @@
+"Console_T"
+{
+	"*** DOOR #1 OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"*** #1 门 将于 30秒 后打开 ***"
+		"DoorCountdown"		"30"
+	}
+	"*** DOOR #2 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #2 门 将于 50秒 后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #3 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #3 门 将于 50秒 后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #4 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #4 门 将于 50秒 后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #5 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #5 门 将于 50秒 后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #6 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THIS IS THE FINAL BATTLE. HOLD OFF THE ZOMBIES FOR 50 SECONDS. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE GHOST DEMON IS APPROACHING , TAKE HIM DOWN BEFORE HE GETS TOO CLOSE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HUMANS COULD NOT DEFEAT THE GHOST DEMON. VICTORY BELONGS TO THE ZOMBIES ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE HUMANS HAVE DEFEATED THE GHOST DEMON. THEY ARE VICTORIOUS. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+}

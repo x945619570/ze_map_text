@@ -1,0 +1,292 @@
+"Console_T"
+{
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"** Map by Night Fury **"
+	{
+		"chi"		"** **"
+	}
+	"** Door opening in 30 seconds! **"
+	{
+		"chi"		"30秒后开门！"
+		"DoorCountdown"		"30"
+	}
+	"** Door opening in 10 seconds! **"
+	{
+		"chi"		"10秒"
+	}
+	"** Door opened! **"
+	{
+		"chi"		"门开了"
+	}
+	"A player has aquired the soulsphere powerup!"
+	{
+		"chi"		"玩家捡起了能量装置！"
+	}
+	"Soulsphere power has 2 charges and a 120 second cooldown!"
+	{
+		"chi"		"能量装置能使用2次并且拥有120秒冷却CD"
+	}
+	"First soulsphere charge used!"
+	{
+		"chi"		"能量装置被使用！"
+	}
+	"Soulsphere first charge depleted!"
+	{
+		"chi"		"** **"
+	}
+	"** Door opening in 25 seconds! **"
+	{
+		"chi"		"能量装置1失效"
+	}
+	"** Door opening in 25 seconds **"
+	{
+		"chi"		"25秒后开门      "
+		"DoorCountdown"		"                "
+	}
+	"** Door opening in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Door Opening in 23 Seconds **"
+	{
+		"chi"		"10秒开门"
+	}
+	"** Opening door in 15 Seconds!! **"
+	{
+		"chi"		"15秒开门！守住！"
+	}
+	"** Resist! a few seconds more **"
+	{
+		"chi"		"再坚持一会儿！"
+	}
+	"** Exit door opening in 40 seconds! **"
+	{
+		"chi"		"40秒后逃生门打开！"
+		"DoorCountdown"		"40"
+	}
+	"Soulsphere recharged!"
+	{
+		"chi"		"能量装置就绪！"
+	}
+	"** Exit door opening in 10 seconds! **"
+	{
+		"chi"		"10秒后开门！"
+	}
+	"** Exit door opened! **"
+	{
+		"chi"		"门开了快几把跑！"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED!! **"
+	{
+		"chi"		"门开了！"
+	}
+	"** Exit door closing in 15 seconds! **"
+	{
+		"chi"		"逃生门15秒后关闭"
+		"DoorCountdown"		"15"
+	}
+	"** Exit door closed! **"
+	{
+		"chi"		"关门！"
+	}
+	"** LEVEL: NO REST FOR LIVING **"
+	{
+		"chi"		"** **"
+	}
+	"** Opening Door... **"
+	{
+		"chi"		"** **"
+	}
+	"** Door opening in 20 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door Opened **"
+	{
+		"chi"		"** **"
+	}
+	"** Door Opening in 15 Seconds !!!**"
+	{
+		"chi"		"** **"
+	}
+	"** Opening door in 20 Seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Opening door in 10 Seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Elevator Leaving in 35 Seconds...**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"35"
+	}
+	"** Elevator Leaving in 10 Seconds...**"
+	{
+		"chi"		"** **"
+	}
+	"** BAD WIN!! ZOMBIES DETECTED **"
+	{
+		"chi"		"** **"
+	}
+	"** Killing exit room in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"Soulsphere final charge used!"
+	{
+		"chi"		"** **"
+	}
+	"Soulsphere power fully depleted!"
+	{
+		"chi"		"** **"
+	}
+	"Soulsphere recharged"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NIGHTMARE **"
+	{
+		"chi"		"** **"
+	}
+	"** Door opening in 40 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Opening door in 10 seconds... **"
+	{
+		"chi"		"** **"
+	}
+	"** Opening X door in few seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport active in 40 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport active in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport active! **"
+	{
+		"chi"		"** **"
+	}
+	"** Humans have 2 minutes to deafet the boss! **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss defeated! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombies have been released! **"
+	{
+		"chi"		"** **"
+	}
+	"** Exit door closing in 40 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"A player has aquired berserker powerup!"
+	{
+		"chi"		"** **"
+	}
+	"Berserker powerup has one charge!"
+	{
+		"chi"		"** **"
+	}
+	"Beserker has been enabled!"
+	{
+		"chi"		"** **"
+	}
+	"Beserker charge depleting in 3"
+	{
+		"chi"		"** **"
+	}
+	"Beserker charge depleting in 2"
+	{
+		"chi"		"** **"
+	}
+	"Beserker charge depleting in 1"
+	{
+		"chi"		"** **"
+	}
+	"Beserker charge fully depleted!"
+	{
+		"chi"		"** **"
+	}
+	"** Exit door closing in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"** 10 seconds left to kill boss! **"
+	{
+		"chi"		"** **"
+	}
+	"** Humans failed! **"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***UNDERGROUND ROUTE***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+}

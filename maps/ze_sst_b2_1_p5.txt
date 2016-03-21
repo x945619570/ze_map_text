@@ -1,0 +1,93 @@
+"Console_T"
+{
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift Starts in 10 Seconds ***"
+	{
+		"chi"		"电梯将在10秒内开启"
+	}
+	"*** Armored Vehicle Departing in 5 Seconds ***"
+	{
+		"chi"		"** 车5秒后离开 **"
+	}
+	"*** Dropship Arrives in 2 Minutes ***"
+	{
+		"chi"		"** 船将在2分钟后到达 **"
+	}
+	"*** Nuke Immediate After Dropship Departure ***"
+	{
+		"chi"		"** 核后立即从船离开 **"
+	}
+	"*** Dropship Arrival in 1 Minute ***"
+	{
+		"chi"		"** 船将在1分钟后到达 **"
+	}
+	"*** Dropship Arrival in 20 ***"
+	{
+		"chi"		"** 船将在20秒后到达 **"
+		"DoorCountdown"		"30"
+	}
+	"*** Dropship is Here ***"
+	{
+		"chi"		"** 船抵达20 **"
+	}
+	"*** Dropship Departure in 30 Seconds ***"
+	{
+		"chi"		"** 船将在30秒后离开 **"
+	}
+	"*** Dropship Departure in 10 Seconds ***"
+	{
+		"chi"		"** 船将在10秒后离开 **"
+		"DoorCountdown"		"10"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_CHRISTMAS_INFECTION **"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+}

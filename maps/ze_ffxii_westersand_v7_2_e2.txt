@@ -1,0 +1,203 @@
+"Console_T"
+{
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** **"
+	}
+	"** Map Ported By www.dashijie.es **"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"chi"		"** **"
+	}
+	"** Airport opened. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Keep defending!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do a lot of damage **"
+	{
+		"chi"		"** **"
+	}
+	"** METEOR INBOUND **"
+	{
+		"chi"		"** **"
+	}
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** Go to the end of the road! **"
+	{
+		"chi"		"** **"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [NORMAL] **"
+	{
+		"chi"		"** **"
+	}
+	"[HARD MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"chi"		"** **"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"chi"		"** **"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - u won [HARD] **"
+	{
+		"chi"		"** **"
+	}
+	"[EXTREME MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"chi"		"** **"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"[EPIC MODE]"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"** **"
+	}
+	"[GOD MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

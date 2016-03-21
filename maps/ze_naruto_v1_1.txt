@@ -1,0 +1,255 @@
+"Console_T"
+{
+	"** !!! THIS IS A WARMUP ROUND !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! WAITING FOR MORE PLAYERS !!! **"
+	{
+		"chi"		"** **"
+	}
+	">>>Map by CriSsys<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Help tips opinions and adjustements by Aeris004<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Thanks to FireWavezZ<<<"
+	{
+		"chi"		"** **"
+	}
+	"** !!! GAME WILL START IN FEW SECOND !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! CURRENT DIFFICULTY : EASY !!! **"
+	{
+		"chi"		"** **"
+	}
+	">>>Type mat_colorcorrection 1 for a better illumination<<<"
+	{
+		"chi"		"** **"
+	}
+	"** Naruto will open the way ! Follow him ! **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS POSTION **"
+	{
+		"chi"		"** **"
+	}
+	"** AFK CLEANING IN SPAWN SECTION IN 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Cave way will open in 20s ! **"
+	{
+		"chi"		"** **"
+	}
+	"** AFK CLEANING IN SPAWN SECTION **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** Cave way will open in 10s ! **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECONDS LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** DOORS OPENING NOW **"
+	{
+		"chi"		"** **"
+	}
+	"** HOLD THIS POSITION **"
+	{
+		"chi"		"** **"
+	}
+	"** CITY's AFK TELEPORT IN 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** CITY's AFK TELEPORT **"
+	{
+		"chi"		"** **"
+	}
+	"** 20 SECOND LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 10 SECOND LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** 5 SECOND LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** FORTRESS AFK TELEPORT IN 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** FORTRESS AFK TELEPORT **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! NEXT DIFFICULTY : NORMAL !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! CURRENT DIFFICULTY : NORMAL !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! NEXT DIFFICULTY : HARD !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! CURRENT DIFFICULTY : HARD !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** DOOR WILL OPEN IN 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** DOOR WILL OPEN IN 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU NEED TO DEFEND THE TOWN 45s **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND AGAIN 30s **"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO HAS BEEN KILLED BY ZOMBIES **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
+	{
+		"chi"		"** **"
+	}
+	"** NEXT DIFFICULTY : HARD **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND AGAIN 20s **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND AGAIN 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** DEFEND AGAIN 5s **"
+	{
+		"chi"		"** **"
+	}
+	"** NEXT DIFFICULTY : EXTREME **"
+	{
+		"chi"		"** **"
+	}
+	"** HUMANS SUCCEFULLY DEFEND KONOHA **"
+	{
+		"chi"		"** **"
+	}
+	"** KILL ALL ZOMBIE SURVIVOR **"
+	{
+		"chi"		"** **"
+	}
+	"** !!! CURRENT DIFFICULTY EXTREME !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO IS FIGHTING AGAINST SASUKE **"
+	{
+		"chi"		"** **"
+	}
+	"** HELP HIM TO DEFEAT SASUKE AND WIN **"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO WILL USE AN ATTACK. STAY IN THE MIDDLE **"
+	{
+		"chi"		"** **"
+	}
+	"** SASUKE PREPARE A NEW ATTACK. KEEP SHOOTING **"
+	{
+		"chi"		"** **"
+	}
+	"** KILL ALL CLONES BEFORE THEY ATTACK **"
+	{
+		"chi"		"** **"
+	}
+	"** USE YOUR GRENADE TO MAKE MORE DAMAGE **"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
+	{
+		"chi"		"** **"
+	}
+	"** DON'T LET SASUKE MAKE A NEW ATTACK **"
+	{
+		"chi"		"** **"
+	}
+	"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU BIT EXTREME DIFFICULTY **"
+	{
+		"chi"		"** **"
+	}
+	"** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
+	{
+		"chi"		"** **"
+	}
+	"** NEXT DIFFICULTY : NORMAL **"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest Config]"
+	{
+		"chi"		"** **"
+	}
+	"** NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE **"
+	{
+		"chi"		"** **"
+	}
+	"** NEXT DIFFICULTY : EASY **"
+	{
+		"chi"		"** **"
+	}
+}

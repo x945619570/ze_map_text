@@ -1,0 +1,243 @@
+"Console_T"
+{
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	{
+		"chi"		"** **"
+	}
+	">>>Map created by Dark Arrow<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Edited first by [pF]Detonator<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Finished by Hallucinogenic Troll<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Map ported by www.dashijie.es<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>Helicopter will leave in 3 seconds...<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>2<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>1<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>HELICOPTER IS LEAVING<<<"
+	{
+		"chi"		"** **"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 4 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 3 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 2 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 15 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 5 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	{
+		"chi"		"** **"
+	}
+	"4"
+	{
+		"chi"		"** **"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SUITCASE DOOR IS OPENING!>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"chi"		"** **"
+	}
+	"3"
+	{
+		"chi"		"** **"
+	}
+	"2"
+	{
+		"chi"		"** **"
+	}
+	"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 30 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	{
+		"chi"		"** **"
+	}
+	">>>Hold more 25 seconds<<<"
+	{
+		"chi"		"** **"
+	}
+	"<<< Unlimited ammo has been picked >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Press E to have unlimited ammo for 15 sec. Recharge after 50 seconds >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DIFFICULTY LEVEL : GOD  IMPOSSIBLE>>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	{
+		"chi"		"** **"
+	}
+	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< BUTTON IS PRESSED! RUN!! >>>"
+	{
+		"chi"		"** **"
+	}
+	"1"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,51 @@
+"Console_T"
+{
+	"***30 seconds for pressing button!!!***"
+	{
+		"chi"		"** 30秒按下按钮 **"
+	}
+	"***30 second for pressing button!!!***"
+	{
+		"chi"		"** 30秒按下按钮 **"
+	}
+	"***30 seconds for pressing right button!!!***"
+	{
+		"chi"		"** 30秒，请按下右边按钮 **"
+	}
+	"map made by -sang-. helper: V1KT0P"
+	{
+		"chi"		"** 地图作者：sang 帮手：V1KT0P 翻译：肉丸 **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_CHRISTMAS_INFECTION **"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+}

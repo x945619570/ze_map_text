@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+}

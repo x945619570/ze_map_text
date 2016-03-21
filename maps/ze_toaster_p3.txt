@@ -1,0 +1,252 @@
+"Console_T"
+{
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
+	{
+		"chi"		"**跟着红色箭头完成任务！**"
+	}
+	"***LEVER GOING UP IN 5 SECONDS***"
+	{
+		"chi"		"**土司机开关5秒后升起**"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**门在10秒后打开**"
+		"DoorCountdown"		"10"
+	}
+	"***DOOR IS OPEN - FALL BACK***"
+	{
+		"chi"		"**门开了！撤退！**"
+	}
+	"***A JALAPENO HAS BEEN PICKED UP***"
+	{
+		"chi"		"**墨西哥辣椒(喷火器)被捡起！**"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**门5秒后打开！**"
+	}
+	"***DOOR IS OPEN***"
+	{
+		"chi"		"** **"
+	}
+	"***LOCATE AND PRESS ALL FIVE BUTTONS***"
+	{
+		"chi"		"**防守并按下5个开关！**"
+	}
+	"***INITIATE THE TOASTER***"
+	{
+		"chi"		"**土司机启动！**"
+	}
+	"***Button Pressed***"
+	{
+		"chi"		"**按钮已经按下！**"
+	}
+	"***INCOMING TOAST - RIGHT CHAMBER***"
+	{
+		"chi"		"**正在添加土司！**"
+	}
+	"***THE PEANUT BUTTER HAS BEEN PICKED UP***"
+	{
+		"chi"		"**花生酱被捡起！(在地面形成减速区域)**"
+	}
+	"***ELEVATOR IS LEAVING IN 10 SECONDS***"
+	{
+		"chi"		"**升降机10秒后离开！**"
+	}
+	"***ELEVATOR IS LEAVING IN 5 SECONDS***"
+	{
+		"chi"		"**升降机5秒后离开！**"
+	}
+	"***ELEVATOR IS LEAVING IN 4 SECONDS***"
+	{
+		"chi"		"**升降机4秒后离开！**"
+	}
+	"***ELEVATOR IS LEAVING IN 3 SECONDS***"
+	{
+		"chi"		"**升降机3秒后离开！**"
+	}
+	"***ELEVATOR IS LEAVING IN 2 SECONDS***"
+	{
+		"chi"		"**升降机2秒后离开！**"
+	}
+	"***LAGEVATOR IS LEAVING IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"***SOME SOUR MILK HAS BEEN PICKED UP***"
+	{
+		"chi"		"**一些酸奶被捡起！(扔出爆炸后强力减速的酸奶球)**"
+	}
+	"***YUUCK***"
+	{
+		"chi"		"** **"
+	}
+	"***INCOMING TOAST - LEFT CHAMBER***"
+	{
+		"chi"		"**左边插口即将插入土司！**"
+	}
+	"***A METAL ASS HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***INCOMING TOAST - BOTH CHAMBERS***"
+	{
+		"chi"		"** **"
+	}
+	"***A TOASTER HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***Door Opening In 20 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***SOMETHING IS BLOCKING THE LEVER***"
+	{
+		"chi"		"** **"
+	}
+	"***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER HAS BEEN TURNED ON***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT OF THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS PLACE IS FALLING APART***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU MUST HURRY***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST!***"
+	{
+		"chi"		"** **"
+	}
+	"***RUN FOR IT***"
+	{
+		"chi"		"** **"
+	}
+	"***REMOVING DEBRIS - 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***DEBRIS REMOVED - FALL BACK***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR IS LEAVING IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GET OUT OF THERE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE STAIRS ARE BROKEN***"
+	{
+		"chi"		"** **"
+	}
+	"***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***"
+	{
+		"chi"		"** **"
+	}
+	"***FLY OUT WITH THE TOAST OR DIE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***THE TOASTER IS TOASTING TOAST***"
+	{
+		"chi"		"** **"
+	}
+	"***GET TOASTED!***"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+}

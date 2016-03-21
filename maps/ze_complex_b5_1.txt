@@ -1,0 +1,47 @@
+"Console_T"
+{
+	"Map created by User1.1"
+	{
+		"chi"		"** **"
+	}
+	"Hold this position for few seconds"
+	{
+		"chi"		"** **"
+	}
+	"The bridge will fully open soon"
+	{
+		"chi"		"** **"
+	}
+	"Access to the elevator in 40 seconds"
+	{
+		"chi"		"** **"
+	}
+	"Access to the elevator in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"The elevator will leave in 25 seconds"
+	{
+		"chi"		"** **"
+	}
+	"The elevator will leave in 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY - LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+	{
+		"chi"		"** **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,98 @@
+"Console_T"
+{
+	"*** Platforms will begin rising in 15 seconds! ***"
+	{
+		"chi"		"电梯15秒后上升"
+		"DoorCountdown"		"15"
+	}
+	"*** Get in the center! ***"
+	{
+		"chi"		"快跑！"
+	}
+	"*** Get going before the platform breaks! Hurry! ***"
+	{
+		"chi"		"在电梯消失之前离开电梯！"
+	}
+	"*** Wall breaks in 20 seconds. ***"
+	{
+		"chi"		"20秒后墙自动裂开"
+		"DoorCountdown"		"20"
+	}
+	"*** Move! ***"
+	{
+		"chi"		"跑跑跑！"
+	}
+	"*** Slowpoke teleport in 15 seconds.***"
+	{
+		"chi"		"15秒后传送点提前"
+	}
+	"*** Second teleport in 20 seconds! Don't stay behind. ***"
+	{
+		"chi"		"20秒后传送点再提前"
+	}
+	"*** Final glass window will open in 50 seconds... ***"
+	{
+		"chi"		"玻璃门50秒后打开"
+	}
+	"*** Glass window is opening in 15 seconds. ***"
+	{
+		"chi"		"玻璃门15秒后打开"
+		"DoorCountdown"		"15"
+	}
+	"*** Glass window is opening in 5 seconds! Get ready! ***"
+	{
+		"chi"		"玻璃门5秒后打开"
+	}
+	"*** Deadly gas launched! 10 seconds until glass door is sealed! ***"
+	{
+		"chi"		"10秒后释放毒气"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

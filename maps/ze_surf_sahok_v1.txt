@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"**The door will open in 45 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	"**Door is open 10 sec**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 25s**"
+	{
+		"chi"		"** **"
+	}
+	"**Elevator is leaving in 5s**"
+	{
+		"chi"		"** **"
+	}
+	"**Boats will arrive in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 10s **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss Fight in 5s **"
+	{
+		"chi"		"** **"
+	}
+	"** Nades do more damage (2s) **"
+	{
+		"chi"		"** **"
+	}
+	"**The door will open in 30 seconds. Cover!!**"
+	{
+		"chi"		"** **"
+	}
+	"** Boss is dead - Escape ! **"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+}

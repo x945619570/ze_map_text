@@ -1,0 +1,135 @@
+"Console_T"
+{
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"chi"		"**大门10秒之后打开**"
+	}
+	"*** Door opening in 5 seconds !***"
+	{
+		"chi"		"**大门5秒之后打开**"
+	}
+	"*** Resist 30 seconds ! ***"
+	{
+		"chi"		"**坚持30秒！**"
+		"DoorCountdown"		"30"
+	}
+	"***BUTTON PRESSED***"
+	{
+		"chi"		"**按钮已经按下！**"
+	}
+	"*** Wall Opens in 30 seconds! ***"
+	{
+		"chi"		"**墙壁30秒后移动！**"
+		"DoorCountdown"		"30"
+	}
+	"*** Wall Opening ***"
+	{
+		"chi"		"**墙壁移开了！**"
+	}
+	"*** HOLD 30 seconds ! ***"
+	{
+		"chi"		"**防守30秒！**"
+	}
+	"*** Resist 10 seconds ! ***"
+	{
+		"chi"		"**坚持10秒！**"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开！**"
+	}
+	"*** Hold 40 seconds ! ***"
+	{
+		"chi"		"**守住40秒！**"
+		"DoorCountdown"		"40"
+	}
+	"---Feedback:noojeff@gmail.com---"
+	{
+		"chi"		"** **"
+	}
+	"---Special Thank To:HZM654321 and JackBauer123---"
+	{
+		"chi"		"** **"
+	}
+	"*** Human beat red emblem !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD ON ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Entrance Door will close in 1 minutes ! ***"
+	{
+		"chi"		"**入口将在一分钟之后打开！**"
+		"DoorCountdown"		"60"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"** **"
+	}
+	"*** Stage Completed ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wall opens in 30 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 20 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opening in 20 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Resist 20 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Superior door opens in 30 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD 20 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Hold 25 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Wall opens in 20 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 15 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opening in 10 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Door opens in 10 seconds ! ***"
+	{
+		"chi"		"** **"
+	}
+}

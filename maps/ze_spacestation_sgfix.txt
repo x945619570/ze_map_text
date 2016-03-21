@@ -1,0 +1,43 @@
+"Console_T"
+{
+	"Destroy the reactor then get to the escape ships to flee the zombies."
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 SECONDS UNTIL SHUTTLE AIRLOCKS OPEN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AIRLOCKS OPENING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** AIRLOCKS CLOSING IN 10 SECONDS -- EVACUATE IMMEDIATELY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ESCAPE SHIPS HAVE DEPARTED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Starting up X-Wing***"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+}

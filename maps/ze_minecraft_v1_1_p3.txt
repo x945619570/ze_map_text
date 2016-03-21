@@ -1,0 +1,243 @@
+"Console_T"
+{
+	"***MAP BY thegregster101***"
+	{
+		"chi"		"**地图制作 by thegregster101 地图翻译 by 色狼领袖**"
+	}
+	"***YOU ARE PLAYING ze_minecraft_v1_1***"
+	{
+		"chi"		"**你现在正在玩的是ze_minecraft_v1_1 **"
+	}
+	"***STONE DOOR OPENING***"
+	{
+		"chi"		"**石头门开启！**"
+	}
+	"***BOAT LEAVES IN 20 SECONDS***"
+	{
+		"chi"		"**船将在 20 秒后离开。**"
+		"DoorCountdown"		"20"
+	}
+	"***BOAT LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"**船将在 10 秒后离开。**"
+	}
+	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	{
+		"chi"		"**空气墙将在 5 秒后消失。**"
+	}
+	"***TNT EXPLODING IN 30 SECONDS***"
+	{
+		"chi"		"**TNT将在 30 秒后爆炸。**"
+		"DoorCountdown"		"30"
+	}
+	"***HOLD THE CAVE!!!!***"
+	{
+		"chi"		"**在山洞里面撑住！小心滚石！**"
+	}
+	"***TNT EXPLODING IN 20 SECONDS***"
+	{
+		"chi"		"**TNT将在 20 秒后爆炸。**"
+	}
+	"***TNT EXPLODING IN 10 SECONDS***"
+	{
+		"chi"		"**TNT将在 10 秒后爆炸。**"
+	}
+	"***TNT EXPLODING IN 5 SECONDS***"
+	{
+		"chi"		"**TNT将在 5 秒后爆炸。**"
+	}
+	"***GOGO.. GET TO THE SLIP GATE***"
+	{
+		"chi"		"**GOGO..进入传送门！**"
+	}
+	"***AFK TELE TO CAGE IN 15 SECONDS**"
+	{
+		"chi"		"**等待 15 秒**"
+	}
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**南瓜头被捡起来了。**"
+	}
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	{
+		"chi"		"**僵尸等待 20 秒传送**"
+	}
+	"***DOOR OPENING IN 15 SECONDS***"
+	{
+		"chi"		"**大门在 15 秒后开启。**"
+		"DoorCountdown"		"15"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**大门在 10 秒后开启。**"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**大门在 5 秒后开启。**"
+	}
+	"***DOOR OPEN... RUN!!***"
+	{
+		"chi"		"**门开了！撤！撤退！！**"
+	}
+	"***DEFEND THE CASTLE DOORS***"
+	{
+		"chi"		"**守住城门！不要让僵尸靠近！**"
+	}
+	"***GO GO.. GET TO THE MINE!***"
+	{
+		"chi"		"**GO GO ..下矿坑！**"
+	}
+	"***TROLL FACE HAS BEEN PICKED UP***"
+	{
+		"chi"		"**吸引仇恨的头被捡起来了。（你看他那副表情你没有想揍他的冲动？）**"
+	}
+	"***YOU BE TROLL'IN***"
+	{
+		"chi"		"**你是欠揍的。**"
+	}
+	"***DEFEND FOR 35 SECONDS***"
+	{
+		"chi"		"**防守 35 秒直至矿车抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	{
+		"chi"		"**矿车将在 30 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	{
+		"chi"		"**矿车将在 25 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	{
+		"chi"		"**矿车将在 20 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	{
+		"chi"		"**矿车将在 15 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	{
+		"chi"		"**矿车将在 10 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	{
+		"chi"		"**矿车将在 5 秒后抵达。**"
+	}
+	"***GET ON TOP OF THE MINE CARTS***"
+	{
+		"chi"		"**上快车！快上矿车！对僵尸的防守不要松懈。**"
+	}
+	"***BUNKER HAS BEEN REACHED***"
+	{
+		"chi"		"**已经到达防核爆小屋。**"
+	}
+	"***BUNKER DOOR OPENING IN 20 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 20 秒后开启。**"
+		"DoorCountdown"		"20"
+	}
+	"***DEFEND THE RAILWAY TRACK***"
+	{
+		"chi"		"**守住铁轨，不要让僵尸冲过来，手雷扔起来。**"
+	}
+	"***BUNKER DOOR OPENING IN 15 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 15 秒后开启。**"
+	}
+	"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 10 秒后开启。**"
+	}
+	"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 5 秒后开启。**"
+	}
+	"***BUNKER DOOR OPEN!***"
+	{
+		"chi"		"**防核爆小屋的门开了！快进去防守！**"
+	}
+	"***GET INSIDE THE BUNKER***"
+	{
+		"chi"		"**快进去防守！**"
+	}
+	"***BUNKER DOOR CLOSING***"
+	{
+		"chi"		"**屋门关闭。**"
+	}
+	"***NUKE LAUNCHED! ***"
+	{
+		"chi"		"**核武器发射!**"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	{
+		"chi"		"**钻石剑的所有材料已收集完毕。**"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	{
+		"chi"		"**对TNT旁边的工作台按 E E**"
+	}
+	"***THIS WILL CRAFT THE SWORD*** "
+	{
+		"chi"		"**将会制造出钻石剑**"
+	}
+	"***THE SWORD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**钻石剑被捡起来了。**"
+	}
+	"***SWORD READY***"
+	{
+		"chi"		"**钻石剑准备好了。**"
+	}
+	"***CREEPER HEAD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**苦力怕的头被捡起来了。**"
+	}
+	"***THE BOW HAS BEEN PICKED UP***"
+	{
+		"chi"		"** **"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS WILL CRAFT THE SWORD***"
+	{
+		"chi"		"** **"
+	}
+	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
+	{
+		"chi"		"** **"
+	}
+	"***BOAT SELF DESTRUCT!!***"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS A MAP CREATED IN ONE DAY - BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"*** Ze_sC_Turtles By T3tra ***"
+	{
+		"chi"		"** **"
+	}
+}

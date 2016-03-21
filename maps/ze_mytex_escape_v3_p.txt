@@ -1,0 +1,91 @@
+"Console_T"
+{
+	"*Map by Neox*"
+	{
+		"chi"		"**地图作者：Neox 翻译：superjond**"
+	}
+	"*Thanks to Fuu and FreeZe :P *"
+	{
+		"chi"		"**感谢Fuu和FreeZe :P**"
+	}
+	"*Startdoor C is opening in 10 seconds!*"
+	{
+		"chi"		"**C门10秒后打开**"
+	}
+	"*Elevator is leaving in 5 seconds!*"
+	{
+		"chi"		"**电梯5秒后上升**"
+	}
+	"*Bridge is breaking in 30 seconds!*"
+	{
+		"chi"		"**大桥30秒后坍塌**"
+	}
+	"*Bridge is breaking in 10 seconds!*"
+	{
+		"chi"		"**大桥10秒后坍塌**"
+	}
+	"*Gate is opening!*"
+	{
+		"chi"		"**大门打开了**"
+	}
+	"*Tram is leaving in 12 seconds!*"
+	{
+		"chi"		"**缆车12秒后开走**"
+	}
+	"*AFK teleport in 10 seconds!*"
+	{
+		"chi"		"**传送点10秒后提前**"
+	}
+	"*Right Gate is opening in 15 seconds!*"
+	{
+		"chi"		"**右边的大门15秒后打开**"
+	}
+	"*Left Gate is opening in 15 seconds!*"
+	{
+		"chi"		"**左边的大门15秒后打开**"
+	}
+	"*Right Gate is opening!*"
+	{
+		"chi"		"**右边的大门打开了**"
+	}
+	"*Left Gate is opening!*"
+	{
+		"chi"		"**左边的大门打开了**"
+	}
+	"*Bigdoor is opening in 30 seconds!*"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"*Bigdoor is opening in 10 seconds!*"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	"*Bigdoor is opening!*"
+	{
+		"chi"		"**大门打开了**"
+	}
+	"*Finaldoor is opening in 15 seconds!"
+	{
+		"chi"		"**最后一扇门15秒后打开**"
+	}
+	"*Finaldoor is opening!"
+	{
+		"chi"		"**最后一扇门打开了**"
+	}
+	"*Light in 30 seconds!*"
+	{
+		"chi"		"**圣光30秒后到来**"
+	}
+	"*Light in 10 seconds!*"
+	{
+		"chi"		"**圣光10秒后到来**"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+}
