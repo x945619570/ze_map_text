@@ -2,11 +2,11 @@
 {
 	"Map made by Puklica & Cuniczek"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者: Puklica和Cuniczek**"
 	}
 	">>> |LEVEL 1| <<<"
 	{
-		"chi"		"** **"
+		"chi"		"** 第一关**"
 	}
 	"Sponge builder has been picked up."
 	{
@@ -50,11 +50,11 @@
 	}
 	"You have won first level!"
 	{
-		"chi"		"** **"
+		"chi"		"** 你赢下了第一关**"
 	}
 	">>> |LEVEL 2| <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关 **"
 	}
 	"Resist until the wall breaks."
 	{
@@ -62,11 +62,11 @@
 	}
 	"Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"** 撤退**"
 	}
 	"Resist until the ceiling breaks."
 	{
-		"chi"		"** **"
+		"chi"		"**守卫直到天花板裂开**"
 	}
 	"We'll have to jump outside and walk across the mirror."
 	{
@@ -102,19 +102,19 @@
 	}
 	"The sponge has been defeated! Run!"
 	{
-		"chi"		"** **"
+		"chi"		"** 海绵已被打败！跑!**"
 	}
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**最后一道门30秒后关闭!守住! **"
 	}
 	"Kill all zombies inside!"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死门外所有僵尸 **"
 	}
 	"You have won the map! Congratulations!"
 	{
-		"chi"		"** **"
+		"chi"		"**你完成了这个地图!恭喜! **"
 	}
 	"***MAP BY - LUFFAREN***"
 	{
@@ -122,7 +122,7 @@
 	}
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
-		"chi"		"** **"
+		"chi"		"** 不要试图走捷径,它会把你传送回去**"
 	}
 	"IDEA: Sienest?j?"
 	{
