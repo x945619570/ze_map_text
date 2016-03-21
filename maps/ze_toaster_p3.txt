@@ -18,7 +18,7 @@
 	}
 	"***DOOR OPENING IN 10 SECONDS***"
 	{
-		"chi"		"**门在10秒后打开**"
+		"chi"		"** **"
 		"DoorCountdown"		"10"
 	}
 	"***DOOR IS OPEN - FALL BACK***"
