@@ -86,7 +86,7 @@
 	}
 	"*** The door will open in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**测试**"
 	}
 	"*** The elevator will leave in 35 seconds ***"
 	{
