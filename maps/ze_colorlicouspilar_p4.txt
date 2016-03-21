@@ -24,31 +24,31 @@
 	}
 	"***Zombies teleporting in 15 secs. Get ready.***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在15后传送,准备**"
 	}
 	"***Zombies teleporting in 10 secs!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	"***Zombies teleporting in 5 secs!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在5秒后传送 **"
 	}
 	"***RUUUUUUUUUN!!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑!!!!!!!!!! **"
 	}
 	"***RUN INTO THE HOLE!***"
 	{
-		"chi"		"** **"
+		"chi"		"**跑向洞 **"
 	}
 	"***Map by Taskuvaras***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:askuvaras **"
 	}
 	"***Human door opening in 15s***"
 	{
-		"chi"		"** **"
+		"chi"		"**人类大门将在15秒后打开 **"
 	}
 	"[Load ShroomForest2 Config]"
 	{
@@ -56,6 +56,6 @@
 	}
 	"[Warmup] Wait for others players to join"
 	{
-		"chi"		"** **"
+		"chi"		"**等待其他玩家加入 **"
 	}
 }
