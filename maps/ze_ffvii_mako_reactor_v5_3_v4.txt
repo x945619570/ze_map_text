@@ -2,19 +2,19 @@
 {
 	"**** MAP BY: Hannibal[SPA] (Rafuron) ****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者: Hannibal[SPA] (Rafuron) **"
 	}
 	"** Server settings initialized **"
 	{
 		"chi"		"** **"
 	}
-	"** Tips and Adjustements: Maese Danielot **"
+	"** Tips and Adjustements: Maese Danielot *提示和调试:Maese Danielot*"
 	{
 		"chi"		"** **"
 	}
-	"** Optimization and Helping: Kaemon **"
+	"** Optimization and Helping: v **"
 	{
-		"chi"		"** **"
+		"chi"		"** *优化和帮助:Kaemon*"
 	}
 	"**CURRENT DIFFICULTY ** >> NORMAL << **"
 	{
@@ -99,23 +99,23 @@
 	}
 	"** EXPLOSION IN 145 SECONDS **"
 	{
-		"chi"		"**warning:EXPLOSION IN 145 SECONDS!!!!**"
+		"chi"		"**警告:魔光炉将在145S后爆炸!!!**"
 	}
 	"**  110 SECONDS LEFT **"
 	{
-		"chi"		"**warning:110 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩110S!!!**"
 	}
 	"**  100 SECONDS LEFT **"
 	{
-		"chi"		"**warning:100 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩100S!!!**"
 	}
 	"**  90 SECONDS LEFT **"
 	{
-		"chi"		"**warning:90 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩90S!!!**"
 	}
 	"**  80 SECONDS LEFT **"
 	{
-		"chi"		"**warning:80 seconds left!!!**"
+		"chi"		"*警告:逃脱时间还剩80S!!!**"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
@@ -124,7 +124,7 @@
 	}
 	"**  70 SECONDS LEFT **"
 	{
-		"chi"		"**warning:70 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩70S!!!**"
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
@@ -132,23 +132,23 @@
 	}
 	"**  60 SECONDS LEFT **"
 	{
-		"chi"		"**warning:60 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩60S!!!**"
 	}
 	"**  50 SECONDS LEFT **"
 	{
-		"chi"		"**warning:50 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩50S!!!**"
 	}
 	"**  40 SECONDS LEFT **"
 	{
-		"chi"		"**warning:40 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩40S!!!**"
 	}
 	"**  30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30  seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩30S!!!**"
 	}
 	"**  20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩20S!!!**"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
@@ -184,11 +184,11 @@
 	}
 	"** EXPLOSION IN 120 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 120 seconds!!!**"
+		"chi"		"**警告:魔光炉将在120S后爆炸！！！**"
 	}
 	"**  10 SECONDS LEFT **"
 	{
-		"chi"		"** **"
+		"chi"		"**警告:逃脱时间还剩10S!!!**"
 	}
 	"** RUN! **"
 	{
@@ -224,23 +224,23 @@
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
-		"chi"		"**warning:explosion in 130 seconds!!!**"
+		"chi"		"**警告:魔光炉将在130S后爆炸！！！**"
 	}
 	"**  120 SECONDS LEFT **"
 	{
-		"chi"		"**warning:120 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩120S!!!**"
 	}
 	"** 30 SECONDS LEFT **"
 	{
-		"chi"		"**warning:30 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩30S!!!**"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"**warning:20 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩20S!!!**"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"**warning:10 seconds left!!!**"
+		"chi"		"**警告:逃脱时间还剩10S!!!**"
 	}
 	"** ZOMBIES HAVE INFECTED THE BUNKER **"
 	{
@@ -312,7 +312,7 @@
 	}
 	">> IDEA: Sienestaja <<"
 	{
-		"chi"		"** **"
+		"chi"		"**地图创意: Sienestaja **"
 	}
 	"[Load ShroomForest Config]"
 	{
